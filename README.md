@@ -1,2 +1,2 @@
 # genobobeno.github.io
-Blogdown, Debate, Curate, and Create
+Debate, Curate, and Create
